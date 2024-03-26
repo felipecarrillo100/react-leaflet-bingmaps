@@ -1,0 +1,39 @@
+{
+  "name": "react-leaflet-bingmaps",
+  "version": "1.0.0",
+  "description": "A React Typescript module that provides a bingmaps layer react-leaflet > 1.9.0",
+  "keywords": [
+    "react-leaflet",
+    "typescript",
+    "leaflet",
+    "bingmaps",
+    "bing"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc && copyfiles -u 1 ./src/*.css ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipecarrillo100/react-leaflet-bingmaps"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.8",
+    "@types/react": "^16.9.23",
+    "copyfiles": "^2.4.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@react-leaflet/core": "^2.1.0",
+    "leaflet": "^1.9.0",
+    "react-leaflet": "^4.2.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.14.0",
+    "react-dom": ">=16.14.0"
+  },
+  "author": "Felipe Carrillo",
+  "license": "MIT"
+}
