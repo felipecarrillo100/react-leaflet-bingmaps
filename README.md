@@ -3,8 +3,6 @@
 This library is a React Typescript module that provides a BingMapsLayer for React-Leaflet.
 The current Version of react-leaflet-bingmaps 1.x.x is compatible with React-Leaflet 2.x.x
 
-if you are using  the older React-Bootstrap 1.x.x then downgrading to react-bootstrap-submenu 4.2.0 or higher
-
 ## How to install:
 npm install react-leaflet-bingmaps
 
