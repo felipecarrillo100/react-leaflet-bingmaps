@@ -39,7 +39,7 @@ Example:
   </MapContainer>
 ```  
 
-<!-- A small example is provided here: https://codesandbox.io/s/react-bootstrap-submenu-hz17d -->
+A small example is provided here: https://codesandbox.io/p/sandbox/react-leaflet-bingmaps-l9mgdz?file=%2Fsrc%2FApp.jsx%3A11%2C11 
 
 ## Donations
 Creating these libraries is my hobie. If you consider my work useful to you, please consider buying me a coffee. Your contribution keeps me motivated to created and maintain these useful libraries.
